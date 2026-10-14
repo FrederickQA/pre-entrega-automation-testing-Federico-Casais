@@ -50,7 +50,7 @@ venv\Scripts\activate
 # macOS / Linux
 source venv/bin/activate
 
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 
 Necesitás tener Google Chrome instalado.
@@ -58,7 +58,7 @@ Necesitás tener Google Chrome instalado.
 ## Ejecución
 
 ```bash
-pytest -v --html=reports/reporte.html --self-contained-html
+py -m pytest -v --html=reports/reporte.html --self-contained-html
 ```
 
 Para correr sin abrir la ventana del navegador:
