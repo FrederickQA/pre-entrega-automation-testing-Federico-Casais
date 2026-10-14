@@ -1,0 +1,16 @@
+02:20:36 [INFO] utils.helpers: Iniciando Chrome (headless=False)
+02:20:40 [INFO] utils.helpers: Navegando a https://www.saucedemo.com/
+02:20:40 [INFO] utils.helpers: Ingresando con el usuario 'standard_user'
+02:20:40 [INFO] utils.helpers: Login completado, URL actual: https://www.saucedemo.com/inventory.html
+02:20:42 [INFO] utils.helpers: Iniciando Chrome (headless=False)
+02:20:43 [INFO] utils.helpers: Navegando a https://www.saucedemo.com/
+02:20:43 [INFO] utils.helpers: Ingresando con el usuario 'standard_user'
+02:20:43 [INFO] utils.helpers: Login completado, URL actual: https://www.saucedemo.com/inventory.html
+02:20:43 [INFO] test_saucedemo: Productos visibles: 6
+02:20:43 [INFO] test_saucedemo: Primer producto: Sauce Labs Backpack - $29.99
+02:20:45 [INFO] utils.helpers: Iniciando Chrome (headless=False)
+02:20:46 [INFO] utils.helpers: Navegando a https://www.saucedemo.com/
+02:20:46 [INFO] utils.helpers: Ingresando con el usuario 'standard_user'
+02:20:46 [INFO] utils.helpers: Login completado, URL actual: https://www.saucedemo.com/inventory.html
+02:20:47 [INFO] utils.helpers: Producto agregado al carrito: Sauce Labs Backpack
+02:20:47 [INFO] utils.helpers: Navegó al carrito: https://www.saucedemo.com/cart.html
