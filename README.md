@@ -41,7 +41,7 @@ Cada test abre su propio navegador, así que son independientes: si uno falla, l
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/pre-entrega-automation-testing-nombre-apellido.git
+git clone https://github.com/FrederickQA/pre-entrega-automation-testing-Federico-Casais.git
 cd pre-entrega-automation-testing-nombre-apellido
 
 python -m venv venv
